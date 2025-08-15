@@ -1,6 +1,6 @@
 # ml-from-scratch
 
-Todo: Merge https://github.com/akashsonowal/ml-coding
+Todo: Merge https://github.com/akashsonowal/ml-coding and https://github.com/akashsonowal/interview-prep to this repo
 
 Coding for Data Scientists, ML Engineers, Research Engineers 
 
