@@ -1,4 +1,7 @@
 # ml-from-scratch
+
+Todo: Merge https://github.com/akashsonowal/ml-coding
+
 Coding for Data Scientists, ML Engineers, Research Engineers 
 
 Note: This is purely a learning experiment
