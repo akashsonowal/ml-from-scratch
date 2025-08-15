@@ -3,16 +3,16 @@ Coding for Data Scientists, ML Engineers, Research Engineers
 
 Note: This is purely a learning experiment
 
-## ML & Optimization Algorithms (handson theory)
+## 1. ML & Optimization Algorithms (handson theory)
 
 Python3 + C/C++
-=> Standard solution (framwework based), Basic Implementation, Optimized Implementation
+=> Standard solution (framework based), Basic Implementation, Optimized Implementation
 
-## ML Utility Functions
+## 2. ML Utility Functions
 => Spectrogram, Tokenization, Position Encodings, Normalization, Loss Functions, Optimizers etc
 
-## Distributed Algorithms
+## 3. Distributed Algorithms
 => distributed ML algorithms implementations
 
-## Mini Case Studies
+## 4. Mini Case Studies
 => Live Assist basic app, finetune a VAD etc.
